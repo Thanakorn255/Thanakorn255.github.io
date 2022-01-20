@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Head {
+    text-align: center;
+    padding-top: 300px;
+    color: white;
+    font-size: 40px;
+
+}
+.Univer{
+    text-align: center;
+    padding-top: 20px;
+    color: orangered;
+    font-size: 20px;
+
+}
+.img{
+    background-image: url(/img/10384.png);
+    height: 970px;
+    background-size: cover;
+}
+.icon1 img{
+    width: 50px;
+    padding-left: 48%;
+    padding-top: 20px;
+}
+
+
